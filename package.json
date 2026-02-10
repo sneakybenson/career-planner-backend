@@ -14,5 +14,13 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "uuid": "^13.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneakybenson/career-planner-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sneakybenson/career-planner-backend/issues"
+  },
+  "homepage": "https://github.com/sneakybenson/career-planner-backend#readme"
 }
